@@ -1,9 +1,10 @@
 ## Multi-dimensional Transcriptome Ruler
-- MDTRuler provides measurements of the degree of dysregulation in gene expression data at the transcriptome level for five hepatotoxicity mechanisms.
+- Multi-dimenisonal transcriptome ruler (MDTR) provides measurements of the degree of dysregulation in gene expression data at the transcriptome level for five hepatotoxicity mechanisms.
 - The measured values are visualized through radar chart.
 - MDTR is also accessible on the website: http://biohealth.snu.ac.kr/software/MDTR
 
 ## Istallation
+`MDTR.py' is implemented in with [Python](https://www.python.org/) libraries. Belows are requirements for `MDTR.py'.
 
 ### Requirements
 
