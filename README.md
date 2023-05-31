@@ -10,7 +10,7 @@
 * The measured values are visualized through radar chart.
 * MDTR is also accessible on the website: http://biohealth.snu.ac.kr/software/MDTR
 
-## Istallation
+## Intallation
 `MDTR.py` is implemented in with [Python](https://www.python.org/) libraries. 
 The following are the requirements for `MDTR.py`
 
