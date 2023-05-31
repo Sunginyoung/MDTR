@@ -1,5 +1,6 @@
 ## Multi-dimensional Transcriptome Ruler
 * Multi-dimenisonal transcriptome ruler (MDTR) provides measurements of the degree of dysregulation in gene expression data at the transcriptome level for five hepatotoxicity mechanisms.
+
   _Five hepatotoxicity mechanisms_
   * Oxidative stress
   * Immunological response
@@ -36,7 +37,7 @@ optional arguments:
   -h, --help  show this help message and exit
   --r R       (1/0) Whether to save the radar chart for the measured results (default=0)
 ```
-**Expression data** should follow the format below.
+**Expression data** should follow the format below:
 
     Gene  Sample1 Sample2    # Header
     G1  Exp11  Exp12
@@ -49,6 +50,31 @@ optional arguments:
 * Please perform z-normalization of the expression values.
 
 ## Example
+First, clone the repository or download compressed source code files.
+```
+$ git clone https://github.com/Sunginyoung/net_stratification.git
+$ cd MDTR
+```
+You can see the valid parameters for net_stratificaion by help option:
+```
+$ python ./MDTR.py --help
+```
+You can run MDTR with toy expression data.
+1. If you want a radar chart visualization:
+```
+$ python ./MDTR.py \
+                                ./example/input/Toy_Expression.txt  \
+                                ./example/output  \
+                                --r 1
+```
+2. If you do not want radar chart visualization:
+```
+$ python ./MDTR.py \
+                                ./example/input/Toy_Expression.txt  \
+                                ./example/output  \
+                                --r 0
+```
+
 
 ## Contact
 If you have any questions or concerns, please send an email to [inyoung.sung@snu.ac.kr](inyoung.sung@snu.ac.kr).
