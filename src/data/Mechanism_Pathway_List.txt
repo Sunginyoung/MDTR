@@ -1,0 +1,5 @@
+Oxidative stress	hsa05208	hsa04936	hsa04152	hsa00480	hsa04141	hsa04115
+Immunological response	hsa04936	hsa04064	hsa04932
+Altered lipid metabolism	hsa00061	hsa00062	hsa00071	hsa00100	hsa00140	hsa00561	hsa00564	hsa00565	hsa00600	hsa00590	hsa00591	hsa00592	hsa01040
+Mitochondrial dysfunction	hsa00190	hsa00020
+Bile acids accumulation	hsa00120	hsa04976
