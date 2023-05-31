@@ -37,11 +37,13 @@ optional arguments:
   --r R       (1/0) Whether to save the radar chart for the measured results (default=0)
 ```
 **Expression data** should follow the format below.
+
     Gene  Sample1 Sample2    # Header
     G1  Exp11  Exp12
     G2  Exp21 Exp22
     G3  Exp31 Exp32
     ...
+    
 * The data is recommended in tab-delimited file format, where rows represent genes and columns represent expression values.
 * The first row should correspond to the sample ID, and the first column should contain the gene symbol.
 * Please perform z-normalization of the expression values.
