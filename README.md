@@ -1,6 +1,6 @@
 ## Multi-dimensional Transcriptome Ruler
 * Multi-dimenisonal transcriptome ruler (MDTR) provides measurements of the degree of dysregulation in gene expression data at the transcriptome level for five hepatotoxicity mechanisms.
-  Five hepatotoxicity mechanisms
+  _Five hepatotoxicity mechanisms_
   * Oxidative stress
   * Immunological response
   * Altered lipid metabolism
