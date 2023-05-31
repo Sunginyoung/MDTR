@@ -4,7 +4,7 @@
 - MDTR is also accessible on the website: http://biohealth.snu.ac.kr/software/MDTR
 
 ## Istallation
-`MDTR.py' is implemented in with [Python](https://www.python.org/) libraries. Belows are requirements for `MDTR.py'.
+`MDTR.py` is implemented in with [Python](https://www.python.org/) libraries. Belows are requirements for `MDTR.py`.
 
 ### Requirements
 
