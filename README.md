@@ -22,6 +22,20 @@ The following are the requirements for `MDTR.py`
 * Matplotlib    (over 3.5.3)
 
 ## Usage
+`MDTR.py` supports command-line invocation as below:
+```
+usage: MDTR.py [-h] [--r R] expr outdir
+
+positional arguments:
+  expr        File path of gene expression data.
+              Tab-delimited file format (.txt) is recommended for input data.
+              It is also recommended to use Z-normalized files.
+  outdir      Directory to save a result file
+
+optional arguments:
+  -h, --help  show this help message and exit
+  --r R       (1/0) Whether to save the radar chart for the measured results (default=0)
+```
 
 ## Example
 
