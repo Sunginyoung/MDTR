@@ -25,7 +25,7 @@ The following are the requirements for `MDTR.py`
 ## Usage
 `MDTR.py` supports command-line invocation as below:
 ```
-usage: MDTR.py [-h] [--r R] expr outdir
+usage: python MDTR.py [-h] [--r R] expr outdir
 
 positional arguments:
   expr        File path of gene expression data.
