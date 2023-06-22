@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/646079869.svg)](https://zenodo.org/badge/latestdoi/646079869)
+
 ## Multi-dimensional Transcriptomic Ruler
 * Multi-dimenisonal transcriptomic ruler (MDTR) provides measurements of the degree of dysregulation in gene expression data at the transcriptome level for five hepatotoxicity mechanisms.
 
