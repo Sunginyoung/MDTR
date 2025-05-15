@@ -79,8 +79,17 @@ $ python ./MDTR.py \
 
 
 ## Citation
-Sung, Inyoung, et al. "MDTR: a knowledge-guided interpretable representation for quantifying liver toxicity at transcriptomic level." Frontiers in Pharmacology 15 (2025): 1398370.
-
+```
+@article{sung2025mdtr,
+  title={MDTR: a knowledge-guided interpretable representation for quantifying liver toxicity at transcriptomic level},
+  author={Sung, Inyoung and Lee, Sangseon and Bang, Dongmin and Yi, Jungseob and Lee, Sunho and Kim, Sun},
+  journal={Frontiers in Pharmacology},
+  volume={15},
+  pages={1398370},
+  year={2025},
+  publisher={Frontiers Media SA}
+}
+```
 
 ## Contact
 If you have any questions or concerns, please send an email to [inyoung.sung@snu.ac.kr](inyoung.sung@snu.ac.kr).
