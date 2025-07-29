@@ -54,7 +54,7 @@ optional arguments:
 ## Example
 First, clone the repository or download compressed source code files.
 ```
-$ git clone https://github.com/Sunginyoung/net_stratification.git
+$ git clone https://github.com/Sunginyoung/MDTR.git
 $ cd MDTR
 ```
 You can see the valid parameters for net_stratificaion by help option:
